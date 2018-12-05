@@ -1,0 +1,52 @@
+body{background-image: url("../images/MeanGirls-background.jpg");
+background-size: 115%;
+background-position: center,bottom;
+}
+
+
+.gamespace {
+    margin: 15px auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid #888a88;
+    border-radius: 10px;
+    height: 550px;
+    width: 60vw;
+    text-align: center;
+  }
+
+  h1 {
+    text-align: center;
+    background-color: rgb(238, 20, 209);
+  }
+
+
+  #startb {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    align-content: center;
+  }
+  
+  #resetb {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+  }
+
+  #questionaire {
+    font-size: 150%;
+    color: rgb(238, 20, 209);
+  }
+
+  .answerchoice{
+    border: 2px solid  rgb(238, 20, 209);
+    width: 50%;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 30px;
+    background-color: white;
+  }
+
+  .answerchoice:hover {
+    border: 3px solid rgb(52, 20, 66);
+  }
